@@ -196,7 +196,7 @@ img{
 }
 @media(max-width:950px){
     body{
-        overflow: hidden;
+        overflow-x: hidden;
     }
     .section_header{
         display: flex;
