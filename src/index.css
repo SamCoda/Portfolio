@@ -195,6 +195,9 @@ img{
     }
 }
 @media(max-width:950px){
+    body{
+        overflow: hidden;
+    }
     .section_header{
         display: flex;
         justify-content: center;
